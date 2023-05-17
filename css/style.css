@@ -1,0 +1,88 @@
+      body {
+   
+  background-image: url("https://i.pinimg.com/originals/93/f5/29/93f529b178cf1c820f0f5ba9f557afa8.jpg");
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
+}
+        font-family: Arial, sans-serif;
+      }
+      
+      h1, h2, h3 {
+        color: #F4F4F4;
+        <h1 style="background-color:D;">Nourris-moi</h1>
+      }
+      
+      p {
+        font-size: 1.2em;
+        color: #4d4d4d;
+      }
+      
+      input[type="text"] {
+        padding: 8px;
+        border-radius: 4px;
+        border: none;
+        background-color: #E6E6E6;
+        font-size: 1.2em;
+        color: #4d4d4d;
+      }
+      
+      input[type="submit"] {
+        background-color: #336633;
+        color: #fff;
+        padding: 8px 16px;
+        border-radius: 4px;
+        border: none;
+        font-size: 1.2em;
+        cursor: pointer;
+      }
+      
+      ul {
+        list-style: none;
+        padding-left: 0;
+      }
+      
+      li {
+        margin-bottom: 8px;
+        padding: 8px;
+        background-color: #E6E6E6;
+        border-radius: 4px;
+        box-shadow: 2px 2px 4px #BFBFBF;
+      }
+      
+      a {
+        color: #336633;
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 1.2em;
+      }
+      
+      a:hover {
+        text-decoration: underline;
+      }
+      
+      .option-box {
+        display: inline-block;
+        margin: 8px;
+        background-color: #FFFFFF;
+        border-radius: 4px;
+        padding: 16px;
+        box-shadow: 2px 2px 4px #BFBFBF;
+      }
+      
+      .option-box img {
+        display: block;
+        margin: auto;
+        width: 60%;
+        border-radius: 4px;
+      }
+      
+      .option-box h3 {
+        margin-top: 8px;
+        font-size: 1.2em;
+        font-weight: bold;
+        text-align: center;
+        color: #336633;
+      }
+      
+   
